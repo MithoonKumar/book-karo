@@ -1,0 +1,71 @@
+PODS:
+  - device_id (0.0.1):
+    - Flutter
+  - Flutter (1.0.0)
+  - location (0.0.1):
+    - Flutter
+  - permission_handler (4.1.0):
+    - Flutter
+  - phone_number (0.6.0):
+    - Flutter
+    - PhoneNumberKit/PhoneNumberKitCore (~> 3.2.0)
+  - PhoneNumberKit/PhoneNumberKitCore (3.2.0)
+  - shared_preferences (0.0.1):
+    - Flutter
+  - url_launcher (0.0.1):
+    - Flutter
+  - url_launcher_macos (0.0.1):
+    - Flutter
+  - url_launcher_web (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - device_id (from `.symlinks/plugins/device_id/ios`)
+  - Flutter (from `Flutter`)
+  - location (from `.symlinks/plugins/location/ios`)
+  - permission_handler (from `.symlinks/plugins/permission_handler/ios`)
+  - phone_number (from `.symlinks/plugins/phone_number/ios`)
+  - shared_preferences (from `.symlinks/plugins/shared_preferences/ios`)
+  - url_launcher (from `.symlinks/plugins/url_launcher/ios`)
+  - url_launcher_macos (from `.symlinks/plugins/url_launcher_macos/ios`)
+  - url_launcher_web (from `.symlinks/plugins/url_launcher_web/ios`)
+
+SPEC REPOS:
+  trunk:
+    - PhoneNumberKit
+
+EXTERNAL SOURCES:
+  device_id:
+    :path: ".symlinks/plugins/device_id/ios"
+  Flutter:
+    :path: Flutter
+  location:
+    :path: ".symlinks/plugins/location/ios"
+  permission_handler:
+    :path: ".symlinks/plugins/permission_handler/ios"
+  phone_number:
+    :path: ".symlinks/plugins/phone_number/ios"
+  shared_preferences:
+    :path: ".symlinks/plugins/shared_preferences/ios"
+  url_launcher:
+    :path: ".symlinks/plugins/url_launcher/ios"
+  url_launcher_macos:
+    :path: ".symlinks/plugins/url_launcher_macos/ios"
+  url_launcher_web:
+    :path: ".symlinks/plugins/url_launcher_web/ios"
+
+SPEC CHECKSUMS:
+  device_id: 4a0bf078741a3eec6ba0e6cc72e786395d5991b0
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+  location: 3a2eed4dd2fab25e7b7baf2a9efefe82b512d740
+  permission_handler: b41310bab60fffbf8b5732cd9b4f565671d14762
+  phone_number: b7978b964a25ceaf055a9c26e25a989680b8b049
+  PhoneNumberKit: df411d46177d1492da84e10b6c093846dd861452
+  shared_preferences: 1feebfa37bb57264736e16865e7ffae7fc99b523
+  url_launcher: a1c0cc845906122c4784c542523d8cacbded5626
+  url_launcher_macos: fd7894421cd39320dce5f292fc99ea9270b2a313
+  url_launcher_web: e5527357f037c87560776e36436bf2b0288b965c
+
+PODFILE CHECKSUM: 1b66dae606f75376c5f2135a8290850eeb09ae83
+
+COCOAPODS: 1.9.0
